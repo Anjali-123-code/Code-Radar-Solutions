@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main()
 {
-    printf("12");
+    printf("Hexadecimal: A");
     return 0;
 }
